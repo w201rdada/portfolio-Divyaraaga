@@ -1,24 +1,33 @@
-# My first cool idea {#slug-one}
+# Smart Package Builder {#mind-the-customer}
 
 #### Keywords
 
-yaba, daba, do
+Downgrade packages, Cancel Subscription, customize packages, Viewing patterns, Similar packages
 
 ## A beginning.
 
-Chartreuse next level beard, gochujang vexillologist letterpress meggings.  Godard in  vero, raw denim asymmetrical small batch shabby chic.  Four loko id  actually, pug sartorial sustainable twee live-edge ea chartreuse typewriter disrupt ut direct trade  accusamus.  Nesciunt hoodie live-edge hell of cred, man braid ex mixtape tumblr odio skateboard 8-bit.  Cold-pressed portland nesciunt schlitz organic, lyft bespoke keffiyeh jianbing migas plaid.  Aute  delectus id  master cleanse migas.  Assumenda enamel pin man braid tumblr, four dollar toast YOLO selfies pitchfork tacos kale chips cronut hot chicken.
+I work for satellite service provider organization. Around 5 to 7 % of customers call our customer support monthly either to downgrade their packages or cancel their monthly subscription due to high monthly bill. Currently our organization offers standard retention packages to those customers who call to cancel the service. For customers calling to downgrade packages, the focus is only on reducing the number of channels in the package to bring the price down. These packages are generic as there is no intelligent packaging of channels. So, the new packages may or may not be appealing to the customer.
+With this solution, we want to enable our customer service representatives to offer customized retention packages instead.
 
 ## A middle.
 
-Deep v accusamus fingerstache tempor kickstarter, sunt banjo tumeric franzen irure  beard af velit  meditation kogi.  Keffiyeh fam shoreditch voluptate  pork belly.  Trust fund vape fixie, dolor  lomo exercitation cardigan.  Meggings hot chicken chartreuse, health goth 3 wolf moon lumbersexual deep v et celiac art party.  Keffiyeh magna mlkshk drinking vinegar, tbh mollit  thundercats heirloom health goth kale chips kitsch gochujang chambray aute  +1.  Heirloom ugh chicharrones franzen locavore swag.  Hexagon man braid lomo, gentrify elit shoreditch flexitarian single-origin coffee gochujang kitsch nihil yuccie mlkshk.
+Deep v accusamus fingerstache tempor kickstarter, sunt banjo tumeric franzen irure  beard af velit  meditation kogi.  Keffiyeh fam shoreditch Our solution needs three types of data, i.e. details of customer\'s\ current package, viewing patterns of the customer and channel catalog data from Offers Management System. This data is used by the solution to compute the list of \"N\" most watched channels by the customer. This data will be presented to the customer service representative in a chart with a filter to control \"N\" (for e.g.: Top 5 Channels, Top 10 Channels etc.).
 
 <!-- ...or include images directly from the web. Cite your sources! -->
-```{r machine-learning,echo=FALSE,fig.cap='[xkcd: Machine Learning](https://xkcd.com/1838/)',fig.align='center',out.width='50%'}
-knitr::include_graphics('https://imgs.xkcd.com/comics/machine_learning.png')
+```{r machine-learning,echo=FALSE,fig.cap='[Fig 1: High level Solution Architecture](https://xkcd.com/1838/)',fig.align='center',out.width='75%'}
+knitr::include_graphics('/Users/ds639c/Desktop/latest_Arch.png')
 ```
 
-Commodo mustache pinterest yr, nostrud nesciunt esse  photo booth.  Keytar synth mlkshk, ullamco veniam sed laboris  seitan velit  live-edge fam gastropub.  Ad mumblecore nihil messenger bag williamsburg occaecat.  Bushwick pickled ullamco, keytar letterpress vice chillwave cillum.  Voluptate  listicle irure  food truck coloring book shoreditch.  Before they sold out four dollar toast stumptown single-origin coffee, retro nostrud veniam dreamcatcher street art subway tile sed pabst hoodie copper mug.  Everyday carry seitan vaporware gastropub etsy, freegan ramps hashtag vegan.
+Based on this data the customer service representative can offer to create a package with \"N\" most watched channels, \"N\" being the customer\'s\ choice. The algorithm also acts as a recommendation engine by suggesting other channels which show content similar to the \"N\" channels selected by the customers. These suggestions will be presented as a list when the filter to control \"N\" in the chart is toggled by the rep.
+The organization must also consider the profitability factor while offering these packages. The algorithm will have clearly defined business rules to ensure that profitability does not take a hit because of new package offered to the customer.
 
 ## An end.
 
-90's salvia echo park voluptate, ennui pitchfork church-key photo booth pug aesthetic offal.  Jianbing lomo disrupt before they sold out umami.  Sapiente in  swag yr leggings, selfies distillery fap enamel pin elit aliquip listicle organic master cleanse pug.  La croix coloring book cray, vice ullamco cornhole whatever copper mug neutra pour-over vinyl kogi incididunt tilde gastropub.  Prism veniam VHS, sustainable ea meh viral duis.  Hell of health goth 8-bit microdosing sed keffiyeh.  Laboris  marfa hell of chartreuse celiac poutine keytar, iceland scenester enim nihil man bun church-key forage fam.
+We are enabling our customer support teams to serve customers better using this data driven solution. Offering generalized retention packages to the customer will seem mechanical, whereas offering to build a customized package for the customer will help the representative to establish a better connect with the customer. Thus, the odds of retaining the customer will increase.
+
+The limitations of the solution 
+
+* The solution is just an enabler, the actual impact on customer retention is also dependent on the skills of customer care representatives       to market these customized packages.
+* For a relatively new customer, the available viewing pattern data may not be enough to compute the most watched \"N\" channels accurately.
+
+Nevertheless, this solution makes the customer retention strategy data driven and smart.
