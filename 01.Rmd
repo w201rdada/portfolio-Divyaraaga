@@ -27,7 +27,9 @@ We are enabling our customer support teams to serve customers better using this 
 
 The limitations of the solution 
 
-* The solution is just an enabler, the actual impact on customer retention is also dependent on the skills of customer care representatives       to market these customized packages.
+* The solution is just an enabler, the actual impact on customer retention is also dependent on the skills of customer care representatives to market these customized packages. This limitation can be overcome by training the Customer care representatives to use the solution in their interactions with the customer.
+
+
 * For a relatively new customer, the available viewing pattern data may not be enough to compute the most watched \"N\" channels accurately.
 
 Nevertheless, this solution makes the customer retention strategy data driven and smart.
