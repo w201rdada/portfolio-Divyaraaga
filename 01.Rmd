@@ -4,23 +4,24 @@
 
 Downgrade packages, Cancel Subscription, customize packages, Viewing patterns, Similar packages
 
-## A beginning.
+## Current State (Generic retention packages).
 
 I work for satellite service provider organization. Around 5 to 7 % of customers call our customer support monthly either to downgrade their packages or cancel their monthly subscription due to high monthly bill. Currently our organization offers standard retention packages to those customers who call to cancel the service. For customers calling to downgrade packages, the focus is only on reducing the number of channels in the package to bring the price down. These packages are generic as there is no intelligent packaging of channels. So, the new packages may or may not be appealing to the customer.
 With this solution, we want to enable our customer service representatives to offer customized retention packages instead.
 
-## A middle.
+## Data-Driven Solution.
 
-Our solution needs three types of data, i.e. details of customer\'s current package, viewing patterns of the customer and channel catalog data from Offers Management System. This data is used by the solution to compute the list of \"N\" most watched channels by the customer. This data will be presented to the customer service representative in a chart with a filter to control \"N\" (for e.g.: Top 5 Channels, Top 10 Channels etc.).
+Our solution needs details of customer\'s current package, viewing patterns of the customer and channel catalog data from Offers Management System. This data is used by the solution to compute the list of \"N\" most watched channels by the customer. This data will be presented to the customer service representative in a chart with a filter to control \"N\" (for e.g.: Top 5 Channels, Top 10 Channels etc.).
 
 ```{r machine-learning,echo=FALSE,fig.cap='[Fig 1: High level Solution Architecture](https://xkcd.com/1838/)',fig.align='center',out.width='75%'}
-knitr::include_graphics('latest_Arch.png')
+knitr::include_graphics('img/latest_Arch.png')
 ```
 
 Based on this data the customer service representative can offer to create a package with \"N\" most watched channels, \"N\" being the customer\'s choice. The algorithm also acts as a recommendation engine by suggesting other channels which show content similar to the \"N\" channels selected by the customers. These suggestions will be presented as a list when the filter to control \"N\" in the chart is toggled by the rep.
+
 The organization must also consider the profitability factor while offering these packages. The algorithm will have clearly defined business rules to ensure that profitability does not take a hit because of new package offered to the customer.
 
-## An end.
+## Future State (Customized packages).
 
 We are enabling our customer support teams to serve customers better using this data driven solution. Offering generalized retention packages to the customer will seem mechanical, whereas offering to build a customized package for the customer will help the representative to establish a better connect with the customer. Thus, the odds of retaining the customer will increase.
 
