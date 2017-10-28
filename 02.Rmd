@@ -2,7 +2,7 @@
 
 #### Keywords
 
-Soil Quality, Soil erosion, Water erosion, Wind erosion
+Soil Quality, Soil erosion, Water erosion, Wind erosion, primary crops , Secondary crops, Bio wastes, Soil Composition
 
 ## A beginning.
 
