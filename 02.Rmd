@@ -12,7 +12,7 @@ Evolving agricultural practices have contributed immensely to the progress of ci
 
 The intention is to provide a pocket guide to the farmers that they can use as their first level reference to multiple cropping based on geography and crop specific parameters. The solution will also suggest organic wastes that the farmer can use as manure to improve the nutrients required for the crops that will be grown in the land.
 
-![Fig 1: High level Solution Architecture](img/Cool Idea - 2.png)
+![Fig 1: High level Solution Architecture](./img/Cool Idea - 2.png)
 
 The solution will be split into three parts, the first is to provide a crop growth and yield trend over the past 5 or 10 years to the farmer. This would help new farmers who may have leased a piece of land to understand how the soil has been used historically.
 
