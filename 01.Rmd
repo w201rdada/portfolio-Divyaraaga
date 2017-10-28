@@ -16,6 +16,7 @@ Our solution needs details of customer\'s current package, viewing patterns of t
 ```{r machine-learning,echo=FALSE,fig.cap='[Fig 1: High level Solution Architecture](https://xkcd.com/1838/)',fig.align='center',out.width='75%'}
 knitr::include_graphics('latest_Arch.png')
 ```
+![Fig 1: High level Solution Architecture](latest_Arch.png)
 
 Based on this data the customer service representative can offer to create a package with \"N\" most watched channels, \"N\" being the customer\'s choice. The algorithm also acts as a recommendation engine by suggesting other channels which show content similar to the \"N\" channels selected by the customers. These suggestions will be presented as a list when the filter to control \"N\" in the chart is toggled by the rep.
 
