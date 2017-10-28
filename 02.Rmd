@@ -1,24 +1,24 @@
-# My second cool idea {#slug-two}
+# Pocket Botanist{#Care-for-soil}
 
 #### Keywords
 
-yaba, daba, do
+Soil Quality, Soil erosion, Water erosion, Wind erosion
 
 ## A beginning.
 
-Nulla  sint  art party ex, mlkshk disrupt selvage 90's.  Umami sed slow-carb, fugiat  dolore nihil glossier magna migas actually farm-to-table microdosing keytar fixie.  IPhone fashion axe pinterest, cardigan street art quinoa banh mi bitters mollit  commodo pok pok culpa  delectus ut air plant.  Offal edison bulb ex, celiac 8-bit vaporware polaroid thundercats flannel kickstarter labore.  Activated charcoal portland af tousled microdosing woke, in  thundercats consectetur gluten-free hammock duis  next level DIY.  Keffiyeh commodo velit  mollit  brunch, cronut edison bulb banh mi swag stumptown crucifix hell of.  Brunch williamsburg try-hard, seitan literally vexillologist venmo DIY pariatur nesciunt master cleanse XOXO.
+Evolving agricultural practices have contributed immensely to the progress of civilization. Modern farming techniques have helped farmers to improve yields, keep pests at bay and optimize resource utilization. While this has helped us to ensure availability of food for the growing population in most parts of the world, it has also resulted in the degradation of soil quality which is leading to soil erosion. There are numerous researches conducted in this field to find the right balance between improving crop yields and maintaining soil quality. These researches point to adopting certain proven farming techniques to reduce the pace of soil degradation and to aid the process of regeneration of nutrients in soil. Multiple cropping is one such technique and this solution will focus on this technique.
 
 ## A middle.
 
-8-bit synth irony nisi wolf, street art dreamcatcher flannel placeat selvage health goth sriracha.  Glossier labore ex venmo, cillum  live-edge jianbing everyday carry af cray laborum incididunt eiusmod jean shorts.  Normcore slow-carb lyft letterpress, beard tilde art party.  Poke marfa incididunt tempor duis.  Iceland fam ex beard, activated charcoal vaporware nesciunt lyft cronut four dollar toast irony.  Officia  stumptown voluptate  unicorn culpa  bushwick.  Mollit  vero af marfa deserunt  flexitarian.
+The intention is to provide a pocket guide to the farmers that they can use as their first level reference to multiple cropping based on geography and crop specific parameters. The solution will also suggest organic wastes that the farmer can use as manure to improve the nutrients required for the crops that will be grown in the land.
 
+The solution will be split into three parts, the first is to provide a crop growth and yield trend over the past 5 or 10 years to the farmer. This would help new farmers who may have leased a piece of land to understand how the soil has been used historically.
 
-```{r experimental,echo=F,results='asis',eval=F}
-data.table::fread('https://raw.githubusercontent.com/UCB-MIDS/experiments-causality/master/data/GerberGreenBook_Chapter3_Donations.csv?token=ABNmuX-Q14rzQ4teItDenc9L5Wo2flncks5ZL5qEwA%3D%3D') %>% stargazer::stargazer(type = 'html',title = 'Something from W241 Experiments and Causality')
-```
+The second part of the solution is to suggest primary and secondary crops that can be grown in the land based on the soil type, mineral composition and soil PH. This step requires two sets of data i.e. geography wise soil composition and a master crop database that records requisites to grow any specific crop. Soil composition of the geography selected by the user will be matched with the requisites in the master crop database and the suggestion engine will provide a list of suitable primary crops and associated secondary crops. Combining a secondary crop with primary is called mixed cropping and its one of the most acknowledged method of cultivation to improve soil quality and check water and wind erosion. Suggestion of secondary crops will consider compatibility with the primary crop so that they do not compete for nutrients and water. 
 
+Web Soil Survey initiative by the United States Department of Agriculture collects data about soil conditions throughout the US and the proposal is to use this data. But the master crop database needs to be built in collaboration with botanists and researchers.
 
-Laborum williamsburg sunt whatever, DIY reprehenderit  retro vaporware id  hella flannel sartorial vero fugiat  before they sold out.  Copper mug salvia keffiyeh, neutra nostrud iceland keytar kogi church-key quinoa ramps mlkshk.  Seitan mollit  3 wolf moon, forage shabby chic cillum  church-key tofu exercitation aliquip.  Church-key distillery flexitarian meh incididunt retro, ugh wolf selvage hashtag.  Bicycle rights 90's officia  vape.  Listicle post-ironic vape ex.  Gluten-free lomo tumeric, yuccie everyday carry tempor put a bird on it knausgaard nisi ugh skateboard VHS.
+Using the master crop database the solution would also help to identify bio wastes that could be used as manure to enrich the soil with essential nutrients for the suggested crops. This information is provided in the form of bio waste recommendation dashboard.
 
 ## An end.
 
