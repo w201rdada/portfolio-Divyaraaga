@@ -4,11 +4,11 @@
 
 Soil Quality, Soil erosion, Water erosion, Wind erosion, primary crops , Secondary crops, Bio wastes, Soil Composition
 
-## A beginning.
+## Current State(Degradtion of Soil Quality).
 
 Evolving agricultural practices have contributed immensely to the progress of civilization. Modern farming techniques have helped farmers to improve yields, keep pests at bay and optimize resource utilization. While this has helped us to ensure availability of food for the growing population in most parts of the world, it has also resulted in the degradation of soil quality which is leading to soil erosion. There are numerous researches conducted in this field to find the right balance between improving crop yields and maintaining soil quality. These researches point to adopting certain proven farming techniques to reduce the pace of soil degradation and to aid the process of regeneration of nutrients in soil. Multiple cropping is one such technique and this solution will focus on this technique.
 
-## A middle.
+## Data-driven Solution.
 
 The intention is to provide a pocket guide to the farmers that they can use as their first level reference to multiple cropping based on geography and crop specific parameters. The solution will also suggest organic wastes that the farmer can use as manure to improve the nutrients required for the crops that will be grown in the land.
 
@@ -20,6 +20,6 @@ Web Soil Survey initiative by the United States Department of Agriculture collec
 
 Using the master crop database the solution would also help to identify bio wastes that could be used as manure to enrich the soil with essential nutrients for the suggested crops. This information is provided in the form of bio waste recommendation dashboard.
 
-## An end.
+## Future State.
 
 Kombucha pok pok lomo, forage bicycle rights paleo kickstarter literally.  Hot chicken dolor  vegan accusamus master cleanse tousled, yuccie cliche retro aesthetic bushwick actually.  Ennui viral VHS pitchfork pop-up cornhole, nihil quinoa scenester gentrify occaecat  YOLO anim.  Umami copper mug live-edge, air plant meditation bushwick chartreuse adipisicing tousled.  Art party affogato chicharrones, photo booth enim swag vero meh seitan +1 activated charcoal nihil.  Etsy gluten-free authentic mixtape.  Shabby chic duis  90's pop-up pinterest, lumbersexual mollit  cillum.
