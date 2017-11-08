@@ -2,7 +2,7 @@
 
 #### Keywords
 
-Soil Quality, Soil Erosion, Soil Composition, Water Erosion, Wind Erosion, Primary Crops , Secondary Crops, Bio Wastes
+Soil Quality, Soil Erosion, Soil Composition, Water Erosion, Wind Erosion, Primary Crops , Secondary Crops, Bio Wastes, Agriculture, Crop Rotation
 
 ## Farming and Soil Quality.
 
@@ -11,7 +11,7 @@ Evolving agricultural practices have contributed immensely to the progress of ci
 
 ## A Pocket Guide For Farmers.
 
-The intention is to provide a pocket guide to the farmers that they can use as their first level reference for mixed cropping based on the selected geography and crop specific parameters. The solution will also suggest organic wastes that the farmer can use as manure to aid the crops that will be grown in their land.
+The intention is to provide a pocket guide in the form of web/mobile app to the farmers that they can use as their first level reference for mixed cropping based on the selected geography and crop specific parameters. The solution will also suggest organic wastes that the farmer can use as manure to aid the crops that will be grown in their land.
 
 ![Fig 1: High level Solution Architecture](CoolIdea2.png)
 
