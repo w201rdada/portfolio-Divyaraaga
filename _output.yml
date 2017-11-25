@@ -11,10 +11,10 @@ bookdown::gitbook:
       before: |
         <li><a href="./">Divya Raaga</a></li>
       after: |
-        <li><a href="https://github.com/Divyaraaga" target="blank">GitHub</a></li>
-        <li><a href="https://www.ischool.berkeley.edu/people/divya-raaga-kukati-sudhakara-babu" target="blank">UC Berkeley</a></li>
-        <li><a href="https://www.linkedin.com/in/divyaraaga" target="blank">LinkedIn</a></li>
-        <li><a href="https://www.wired.com/2013/02/friendster-autopsy/" target="blank">Friendster</a></li>        
+        <li><a href="https://github.com/Divyaraaga" target="_blank">GitHub</a></li>
+        <li><a href="https://www.ischool.berkeley.edu/people/divya-raaga-kukati-sudhakara-babu" target="_blank">UC Berkeley</a></li>
+        <li><a href="https://www.linkedin.com/in/divyaraaga" target="_blank">LinkedIn</a></li>
+        <li><a href="https://www.wired.com/2013/02/friendster-autopsy/" target="_blank">Friendster</a></li>        
     sharing:
       facebook: no
       twitter: no
