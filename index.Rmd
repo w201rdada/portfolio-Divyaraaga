@@ -19,7 +19,7 @@ library(magrittr)
 knitr::include_graphics('img/hello-world.png')
 ```
 
-Pariatur sapiente anim  waistcoat bicycle rights.  Cupidatat  chambray portland direct trade, XOXO odio gochujang banjo deep v sustainable.  Sint  jianbing DIY humblebrag heirloom exercitation ennui fanny pack.  Dolore small batch lomo, godard slow-carb odio exercitation organic cred cray la croix vinyl nisi hot chicken.  Gentrify schlitz stumptown fam, cray hoodie excepteur  hammock kinfolk 8-bit hell of plaid.  Helvetica hashtag pinterest typewriter, tbh vape vero farm-to-table.  Laboris  bitters aliqua small batch.
+Can Data Science solve all of the worlds problems? Of course not (Even Superman couldn't solve all of the worlds problems!) But the scope and application of data science is very wide, it ranges from making our daily shopping more efficient to building smart cities and predicting natural disasters. It has equipped organizations and governments with data driven insights to tackle a lot of issues efficiently and build sustainable solutions. I am excited to add a few ideas of my own to this list.
 
 <!-- Below this line is just examples of how you can embed video from Google Drive. First you have to enable sharing, then just get the object ID which is that long string between d/ and /preview and will also be appended to any sharing link you generate for your video. -->
 <p>
@@ -29,11 +29,12 @@ knitr::include_url('https://drive.google.com/file/d/0B6bobRDQR96iVEV3SXJJal9CczQ
 
 ### Abstract of my first cool idea
 
-Pop-up occupy labore, pug tofu nisi franzen YOLO tilde tumblr deep v nulla  aliqua.  Sapiente stumptown et lo-fi art party.  Eu  snackwave glossier, poutine crucifix tattooed labore thundercats hexagon tempor brunch single-origin coffee synth four loko.  Velit  beard ex etsy migas, tempor hashtag.  Live-edge fap yr food truck, heirloom snackwave tempor laborum green juice man bun selvage sriracha gastropub.  Before they sold out incididunt godard cupidatat  exercitation street art health goth ullamco, flannel dolore kombucha bespoke.  Pok pok tilde mixtape, magna swag iceland tote bag gentrify dolor  delectus.
+The core concept of my first idea is to achieve product excellence through a customer-driven approach. In this case the product is a Satellite TV package tailored to a customer's needs. The idea is to build a data-driven solution that would package TV channels based on a customer's viewing patterns. Some of the major challenges are the technicalities of analyzing TV viewing patterns, impact to the company's profitability etc. Navigating through these challenges smoothly and improving customer retention by enabling customer care representatives with relevant data is the main focus of the project. For more details, Please read on.
 
 ### Abstract of my second cool idea
 
-Vero dolor  franzen letterpress.  Taxidermy pork belly messenger bag, deserunt  aliqua irure  photo booth neutra banh mi fanny pack.  Butcher fam heirloom marfa.  Tilde reprehenderit  snackwave tempor.  Qui  pop-up kitsch dolor.  Crucifix consectetur culpa  lumbersexual salvia exercitation small batch.  Pop-up duis  id  semiotics before they sold out kombucha raclette, twee selvage pitchfork.
+Pocket Botanist, as the name suggests, aims to provide farmers easy access to the research and knowledge of botanists. The primary focus of the idea is to be the first level of reference for farmers to adopt Mixed Farming based on geographic and crop specific parameters. In the long term, the goal is to enable farmers to follow profitable, but sustainable agricultural practices with data driven inputs. The sheer volume and variety of data that needs to be processed is one of the major challenges of this project, but these challenges are worth grappling with in order to build a sustainable future.
+Read on to know more..
   
 
 ## About the author
