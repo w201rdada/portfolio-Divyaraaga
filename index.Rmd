@@ -27,18 +27,19 @@ Can Data Science solve all of the worlds problems? Of course not (Even Superman 
 knitr::include_url('https://drive.google.com/file/d/0B6bobRDQR96iVEV3SXJJal9CczQ/preview')
 ```
 
-### Abstract of my first cool idea
-
-The core concept of my first idea is to achieve product excellence through a customer-driven approach. In this case the product is a Satellite TV package tailored to a customer's needs. The idea is to build a data-driven solution that would package TV channels based on a customer's viewing patterns. Some of the major challenges are the technicalities of analyzing TV viewing patterns, impact to the company's profitability etc. Navigating through these challenges smoothly and improving customer retention by enabling customer care representatives with relevant data is the main focus of the project. For more details, Please read on.
-
-### Abstract of my second cool idea
+### Pocket Botanist {#Care-for-soil}
 
 Pocket Botanist, as the name suggests, aims to provide farmers easy access to the research and knowledge of botanists. The primary focus of the idea is to be the first level of reference for farmers to adopt Mixed Farming based on geographic and crop specific parameters. In the long term, the goal is to enable farmers to follow profitable, but sustainable agricultural practices with data driven inputs. The sheer volume and variety of data that needs to be processed is one of the major challenges of this project, but these challenges are worth grappling with in order to build a sustainable future.
-Read on to know more..
+[Please read on to know more..](https://w201rdada.github.io/portfolio-Divyaraaga/Care-for-soil.html)
+
+### Smart Package Builder {#mind-the-customer}
+
+The core concept of my first idea is to achieve product excellence through a customer-driven approach. In this case the product is a Satellite TV package tailored to a customer's needs. The idea is to build a data-driven solution that would package TV channels based on a customer's viewing patterns. Some of the major challenges are the technicalities of analyzing TV viewing patterns, impact to the company's profitability etc. Navigating through these challenges smoothly and improving customer retention by enabling customer care representatives with relevant data is the main focus of the project. [Please read on to know more..](https://w201rdada.github.io/portfolio-Divyaraaga/mind-the-customer.html).
   
 
 ## About the author
 
-Sustainable aute  gochujang, messenger bag vero dolor  blog pork belly knausgaard.  Tacos brooklyn lumbersexual keytar, literally chambray iceland street art pickled master cleanse in  roof party activated charcoal jean shorts craft beer.  Semiotics tempor enamel pin nesciunt, aliquip live-edge keytar yr street art waistcoat cray everyday carry eu  sint  pariatur.  Aliquip anim  godard leggings, flexitarian direct trade  humblebrag.  Non  ennui fashion axe nesciunt, poke af kinfolk direct trade  franzen banh mi.  Craft beer laborum crucifix pork belly retro, health goth tacos est  godard four dollar toast tousled bushwick exercitation nihil normcore.  Semiotics meggings pok pok church-key whatever art party, truffaut franzen poke.
+mids fall 2017
+muay thai
 
 *Updated: `r Sys.Date()`*
