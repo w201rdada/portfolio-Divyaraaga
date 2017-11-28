@@ -39,7 +39,6 @@ The core concept of my first idea is to achieve product excellence through a cus
 
 ## About the author
 
-mids fall 2017
-muay thai
+Divya is a UI Architect at at&t, Los Angeles. She has done her Bachelors in Electronics & Communications Engineering from PES College, Bangalore. She is an aspiring Data Scientist, a superfan of Superman and a muay thai enthusiast. Divya is interested in exploring the areas of convergence between Data Science and Geological Systems. Her exposure to agriculture as a child and to technology in profession has played a major role in shaping these aspirations.
 
 *Updated: `r Sys.Date()`*
