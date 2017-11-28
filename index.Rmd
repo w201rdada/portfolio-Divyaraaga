@@ -30,11 +30,11 @@ knitr::include_url('https://drive.google.com/file/d/0B6bobRDQR96iVEV3SXJJal9CczQ
 ### Pocket Botanist {#Care-for-soil}
 
 Pocket Botanist, as the name suggests, aims to provide farmers easy access to the research and knowledge of botanists. The primary focus of the idea is to be the first level of reference for farmers to adopt Mixed Farming based on geographic and crop specific parameters. In the long term, the goal is to enable farmers to follow profitable, but sustainable agricultural practices with data driven inputs. The sheer volume and variety of data that needs to be processed is one of the major challenges of this project, but these challenges are worth grappling with in order to build a sustainable future.
-[Please read on to know more..](https://w201rdada.github.io/portfolio-Divyaraaga/Care-for-soil.html)
+[Read on to know more..](https://w201rdada.github.io/portfolio-Divyaraaga/Care-for-soil.html)
 
 ### Smart Package Builder {#mind-the-customer}
 
-The core concept of my first idea is to achieve product excellence through a customer-driven approach. In this case the product is a Satellite TV package tailored to a customer's needs. The idea is to build a data-driven solution that would package TV channels based on a customer's viewing patterns. Some of the major challenges are the technicalities of analyzing TV viewing patterns, impact to the company's profitability etc. Navigating through these challenges smoothly and improving customer retention by enabling customer care representatives with relevant data is the main focus of the project. [Please read on to know more..](https://w201rdada.github.io/portfolio-Divyaraaga/mind-the-customer.html).
+The core concept of my first idea is to achieve product excellence through a customer-driven approach. In this case the product is a Satellite TV package tailored to a customer's needs. The idea is to build a data-driven solution that would package TV channels based on a customer's viewing patterns. Some of the major challenges are the technicalities of analyzing TV viewing patterns, impact to the company's profitability etc. Navigating through these challenges smoothly and improving customer retention by enabling customer care representatives with relevant data is the main focus of the project. [Read on to know more..](https://w201rdada.github.io/portfolio-Divyaraaga/mind-the-customer.html).
   
 
 ## About the author
