@@ -12,28 +12,28 @@ library(magrittr)
 ```
 
 
-# Welcome!
+# Welcome!{-}
 
-Can Data Science solve all of the worlds problems? Of course not (Even Superman couldn't solve all of the worlds problems!) But the scope and application of data science is very wide, it ranges from making our daily shopping more efficient to building smart cities and predicting natural disasters. It has equipped organizations and governments with data driven insights to tackle a lot of issues efficiently and build sustainable solutions. I am excited to add a few ideas of my own to this list.
+Can Data Science solve all of the worlds problems? Of course not (Even Superman couldn't solve all of the world's problems!) But the scope and application of data science is very wide, it ranges from making our daily shopping more efficient to building smart cities and predicting natural disasters. It has equipped organizations and governments with data driven insights to tackle a lot of issues efficiently and build sustainable solutions. I am excited to add a few ideas of my own to this list.
 
 <!-- Below this line is just examples of how you can embed video from Google Drive. First you have to enable sharing, then just get the object ID which is that long string between d/ and /preview and will also be appended to any sharing link you generate for your video. -->
 <p>
-```{r hello-benji,echo=FALSE,fig.cap='Hello Benjamin Franklin!',fig.align='center'}
-knitr::include_url('https://drive.google.com/file/d/0B6bobRDQR96iVEV3SXJJal9CczQ/preview')
+```{r hello-benji,echo=FALSE,fig.cap='Vote for Pocket Botanist!',fig.align='center'}
+knitr::include_url('https://drive.google.com/file/d/1GfY_onhkouNH7bgYOAnjl2ztWpIAAwL6/view')
 ```
 
-### Pocket Botanist {#Care-for-soil}
+### Pocket Botanist {-}
 
 Pocket Botanist, as the name suggests, aims to provide farmers easy access to the research and knowledge of botanists. The primary focus of the idea is to be the first level of reference for farmers to adopt Mixed Farming based on geographic and crop specific parameters. In the long term, the goal is to enable farmers to follow profitable, but sustainable agricultural practices with data driven inputs. The sheer volume and variety of data that needs to be processed is one of the major challenges of this project, but these challenges are worth grappling with in order to build a sustainable future.
-[Read on to know more..](https://w201rdada.github.io/portfolio-Divyaraaga/Care-for-soil.html)
+[...](https://w201rdada.github.io/portfolio-Divyaraaga/Care-for-soil.html)
 
-### Smart Package Builder {#mind-the-customer}
+### Smart Package Builder {-}
 
-The core concept of my first idea is to achieve product excellence through a customer-driven approach. In this case the product is a Satellite TV package tailored to a customer's needs. The idea is to build a data-driven solution that would package TV channels based on a customer's viewing patterns. Some of the major challenges are the technicalities of analyzing TV viewing patterns, impact to the company's profitability etc. Navigating through these challenges smoothly and improving customer retention by enabling customer care representatives with relevant data is the main focus of the project. [Read on to know more..](https://w201rdada.github.io/portfolio-Divyaraaga/mind-the-customer.html).
+The core concept of my first idea is to achieve product excellence through a customer-driven approach. In this case the product is a Satellite TV package tailored to a customer's needs. The idea is to build a data-driven solution that would package TV channels based on a customer's viewing patterns. Some of the major challenges are the technicalities of analyzing TV viewing patterns, impact to the company's profitability etc. Navigating through these challenges smoothly and improving customer retention by enabling customer care representatives with relevant data is the main focus of the project. [...](https://w201rdada.github.io/portfolio-Divyaraaga/mind-the-customer.html).
   
 
-## About the author
+## About the author{-}
 
-Divya is a UI Architect at at&t, Los Angeles. She has done her Bachelors in Electronics & Communications Engineering from PES College, Bangalore. She is an aspiring Data Scientist, a superfan of Superman and a muay thai enthusiast. Divya is interested in exploring the areas of convergence between Data Science and Geological Systems. Her exposure to agriculture as a child and to technology in profession has played a major role in shaping these aspirations.
+Divya is a UI Architect at at&t, Los Angeles. She has done her Bachelor's in Electronics & Communications Engineering from PES College, Bangalore. She is an aspiring Data Scientist and a muay thai enthusiast. Divya is interested in exploring the areas of convergence between Data Science and Geological Systems. Her exposure to agriculture as a child and to technology in profession has played a major role in shaping these aspirations.
 
 *Updated: `r Sys.Date()`*

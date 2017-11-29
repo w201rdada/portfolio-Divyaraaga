@@ -1,6 +1,6 @@
 # Smart Package Builder {#mind-the-customer}
 
-#### Keywords
+#### Keywords {-}
 
 Downgrade packages, Cancel Subscription, customize packages, Viewing patterns, Similar packages
 
