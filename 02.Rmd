@@ -2,37 +2,38 @@
 
 #### Keywords {-}
 
-Soil Quality, Soil Erosion, Soil Composition, Water Erosion, Wind Erosion, Primary Crops , Secondary Crops, Bio Wastes, Agriculture, Crop Rotation
+Soil Quality, Soil Erosion, Soil Composition, Water Erosion, Wind Erosion, Primary Crops, Secondary Crops, Bio Wastes, Agriculture, Crop Rotation
 
 ## Farming and Soil Quality.
 
-Evolving agricultural practices have contributed immensely to the progress of civilization. Modern farming techniques have helped farmers to improve yields, keep pests at bay and optimize resource utilization. While this has helped us to ensure availability of food for the growing population in most parts of the world, it has also resulted in the degradation of soil quality which is leading to soil erosion. There are numerous researches conducted in this field to find the right balance between improving crop yields and maintaining soil quality. These researches point to adopting certain proven farming techniques to reduce the pace of soil degradation and to aid the process of regeneration of nutrients in soil. Mixed cropping is one such technique and this solution will focus on this technique.
+Evolving agricultural practices have contributed immensely to the progress of civilization. Modern farming techniques have helped farmers to improve yields, keep pests at bay and optimize resource utilization. While this has helped us to ensure the availability of food for the growing population in most parts of the world, it has also resulted in the degradation of soil quality, which is leading to soil erosion. Extensive research has been conducted in this field to find the right balance between improving crop yields and maintaining soil quality. This research points to adopting certain proven farming techniques to reduce the pace of soil degradation and to aid the process of regeneration of nutrients in soil.
 
+Mixed cropping is one such technique. Mixed cropping involves identifying complementary primary and secondary crops and is one of the most acknowledged method of cultivation to improve soil quality and to check water and wind erosion. However, it is more complex than single crop farming and farmers and many find it challenging to determine how to most efficiently plan their crops. Using data science, we can offer a solution to farmers that makes mixed cropping easier, allowing them to maximize yields while also helping preserve soil quality.
 
 ## A Pocket Guide For Farmers.
 
-The intention is to provide a pocket guide in the form of web/mobile app to the farmers that they can use as their first level reference for mixed cropping based on the selected geography and crop specific parameters. The solution will also suggest organic wastes that the farmer can use as manure to aid the crops that will be grown in their land.
+The solution will provide a pocket guide for farmers in the form of a web/mobile app that they can use as their first-level reference for mixed cropping based on the selected geography and crop-specific parameters. The solution will also suggest organic wastes that the farmer can use as manure to aid the crops that will be grown in their land.
 
 ![Fig 1: High level Solution Architecture](CoolIdea2.png)
 
-The solution will be split into three parts, the first is to provide a crop yield trend over the past 5 or 10 years to the farmer using the data from ***data.gov***. This would help new farmers who may have leased a piece of land to understand how the soil has been used historically.
+The solution will be split into three parts. The first is to provide a crop yield trend over the past 5 or 10 years to the farmer using the data from ***data.gov***. This would help new farmers who may have leased a piece of land to understand how the soil has been used historically.
 
-The second part of the solution is to suggest primary and secondary crops that can be grown in the land based on the soil type, mineral composition and soil PH. This step requires two sets of data i.e. geography wise soil composition and a ***Master crop database*** that records requisites to grow any specific crop. Soil composition of the geography selected by the user will be matched with the requisites in the master crop database and the suggestion engine will provide a list of suitable primary crops and associated secondary crops. Combining a secondary crop with a primary is called ***Mixed cropping*** and it's one of the most acknowledged method of cultivation to improve soil quality and to check water and wind erosion. Suggestion of secondary crops will consider compatibility with the primary crop so that they do not compete for nutrients and water. 
+The second part of the solution will suggest primary and secondary crops that can be grown in the land based on the soil type, mineral composition and soil PH. This step requires two sets of data: geography-based soil composition and a ***Master crop database*** that records requisites to grow any specific crop. The soil composition of the geography selected by the user will be matched with the requisites in the master crop database and the suggestion engine will provide a list of suitable primary crops and associated secondary crops. The suggestion of secondary crops will consider compatibility with the primary crop so that they do not compete for nutrients and water. 
 
-***[Web Soil Survey](https://websoilsurvey.sc.egov.usda.gov/App/WebSoilSurvey.aspx)*** initiative by the United States Department of Agriculture collects data about soil conditions throughout the US and the proposal is to use this data. But the master crop database needs to be built in collaboration with botanists and researchers.
+The data for the master crop database will come from the ***[Web Soil Survey](https://websoilsurvey.sc.egov.usda.gov/App/WebSoilSurvey.aspx)*** initiative by the United States Department of Agriculture, which collects data about soil conditions throughout the US. The master crop database needs to be built in collaboration with botanists and researchers.
 
-Using the master crop database, the solution would also help to identify bio wastes that could be used as manure to enrich the soil with essential nutrients for the suggested crops.
+Finally, using the master crop database, the solution would also help to identify bio wastes that could be used as manure to enrich the soil with essential nutrients for the suggested crops.
 
 ## Impact On Soil Quality.
 
-This solution provides farmers access to data driven research in the form of simple dashboards. The fact that the yield of the Secondary crop is an additional contributor to the farmer’s income makes it financially attractive. 
+There are several limitations to this proposal:
+1.	Building the master crop database with specific parameters for all crops grown in a country will be time- and effort-intensive. As a first step, this database could be compiled for a small region to develop a prototype and pitch the solution for wider implementation. 
+2.	Other factors such as climatic conditions and the availability of irrigation in a geographic region also play a major role in the growth of crops. Though in its current form the solution doesn’t consider these points, they could be explored in the future.
 
-From a soil conservation perspective, since more percentage of crop land is now covered with vegetation it directly counteracts soil erosion caused due to run-away water and heavy wind. The usage of bio waste will also aid the regeneration of nutrients in the soil without the harmful side-effects of using chemical manures. The crop residue from secondary crops could also be ploughed into the land as another source of natural manure.
+Despite these limitations, this solution provides farmers access to data-driven research in the form of simple dashboards. The fact that the yield of the secondary crop is an additional contributor to the farmer’s income makes it financially attractive. 
 
-### Limitations
+From a soil conservation perspective, since a higher percentage of crop land is now covered with vegetation, mixed cropping directly counteracts soil erosion caused due to run-away water and heavy wind. The usage of bio waste will also aid the regeneration of nutrients in the soil without the harmful side-effects of using chemical manures. The crop residue from secondary crops could also be ploughed into the land as another source of natural manure.
 
-1.	Building the master crop database with specific parameters for all crops grown in a country is time and effort intensive. As the first step this database could be compiled for a small region to develop a prototype and pitch the solution for wider implementation. 
-2.	Other factors such as climatic conditions and availability of irrigation in a geographic region also play a major role in growth of crops. Though in its current form the solution doesn’t consider these points, they could be explored in the future.
 
 ### Sources 
 
